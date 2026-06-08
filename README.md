@@ -125,17 +125,6 @@ main_interests:
   - Embedded and cyber-physical systems
 ```
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=andri-10&show_icons=true&theme=tokyonight&hide_border=true" alt="Andri's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andri-10&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
 ## 🎓 Education
 
 ```yaml
